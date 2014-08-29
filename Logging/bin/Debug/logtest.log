@@ -1,0 +1,49 @@
+2014-08-19 22:50:21,597 [8] INFO  Logging.MainWindow - Hello, Jello@@@
+2014-08-21 18:54:55,093 [8] INFO  Logging.MainWindow - Hello, Jello@@@
+2014-08-21 19:42:03,028 [10] INFO  Logging.MainWindow - Hello, Jello@@@
+2014-08-26 18:18:15,767 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:05:40,825 [9] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:05:40,842 [9] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 18:12:09,719 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:12:09,737 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 18:15:39,952 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:15:39,953 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 18:17:07,287 [9] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:17:07,304 [9] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 18:19:03,175 [9] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:19:03,198 [9] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 18:19:21,457 [9] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:19:21,474 [9] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 18:23:09,302 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 18:23:09,319 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 19:19:50,806 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 19:19:50,825 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 19:24:05,724 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 19:24:05,741 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 22:27:04,148 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 22:27:04,164 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 22:27:13,141 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 22:27:13,141 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 22:55:55,235 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 22:55:55,252 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 22:55:59,760 [10] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 22:55:59,760 [10] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 22:57:06,872 [9] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 22:57:06,888 [9] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 22:57:08,496 [9] INFO  Logging.MainWindow - New Debug Window instance opened
+2014-08-27 22:57:08,496 [9] INFO  Logging.DebugWindow - Creating DebugWindow Instance
+2014-08-27 22:58:36,516 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:37,103 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:37,511 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:37,752 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:37,950 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:38,559 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:39,214 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:57,793 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:58,455 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:58,656 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:58,889 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 22:58:59,071 [9] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 23:01:48,101 [10] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 23:01:51,896 [10] INFO  Logging.MainWindow - Here is a Message
+2014-08-27 23:02:04,180 [10] INFO  Logging.MainWindow - Here is a Message
